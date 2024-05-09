@@ -1,0 +1,93 @@
+body{width: 1440px;
+    height: 1594px;}
+header{width: 1263px;
+       margin: 24px auto;
+       display: flex;
+       justify-content: space-between;}
+
+li{display: inline-block; 
+    color: #636060;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 50px;}
+.s1{width: 1440px;
+    height: 606px;
+    background-image: url(../img/Rectangle1.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.box1{width: 625px;
+      height: 144px;
+  } 
+.h1{color: #FFF;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 31px;}
+.h2{color: #FFF;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 146px;}
+.s2{width: 1263px;
+    margin: 84px auto;}
+.column{display: inline-block;
+        width: 235px;
+        height: 680px;
+        }
+.satauri{color: #636060;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;}
+.qvesatauri{color: #010101;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 37px;}
+.paragrafi{color: #636060;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}
+.coool{display: inline-flex;
+     width: 924px;
+    height: 680px; 
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 83px;
+    z-index: 2;} 
+ 
+.card{display: inline-block;
+    width: 286px;
+      height: 312px;
+     margin-right: 25px;}   
+.topic{margin-top: 23px;
+       margin-bottom: 9px;
+    color: #343232;
+    font-family: "Roboto";
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}       
+.p{color: #636060;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}   
+.ha{display: inline-block;
+    width: 286px;
+      height: 312px;}
